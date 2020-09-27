@@ -7,11 +7,14 @@ public class TestStash {
 		System.out.println("Modification of our code");
 		System.out.println("Hello World!!!");
 		
+<<<<<<< Updated upstream
 		System.out.println("git stash pop");
 		
 		
 		
 		System.out.println("I LIVE IN NYC");
+=======
+>>>>>>> Stashed changes
 	}
 
 }
