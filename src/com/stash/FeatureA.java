@@ -6,6 +6,9 @@ public class FeatureA {
 		
 		System.out.println("Tomorrow never dies");
 		
+		System.out.println("FeatureA class modified");
+		System.out.println("FeatureA class completed");
+		
 	}
 
 }
